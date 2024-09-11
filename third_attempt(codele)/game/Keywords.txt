@@ -1,0 +1,396 @@
+Abstraction
+the process of removing or hiding unnecessary detail so that only the important points remain.
+Decomposition
+breaking a problem down into smaller, more manageable parts, which are then easier to solve.
+Back up
+a copy of files in another location so that they are still available if the original copy is damaged or lost. Backing up is the process of making a backup copy.
+Access control
+this determines which users have access to which data, and what they are allowed to do with it.
+Algorithm
+a precise method for solving a problem. It consists of a sequence of step by step instructions.
+Analogue
+using signals or information represented by a quantity (e.g. an electric voltage or current) that is continuously variable. Changes in the information being represented are indicated by changes in voltage. This method requires very accurate sending and receiving mechanisms.
+Application software
+software that performs a task that would otherwise be done by hand, perhaps with pen and paper.
+Arithmetic/logic unit (ALU)
+the part of the CPU that performs calculations and logic operations.
+Arithmetic operator
+an operator that performs a calculation on two numbers.
+Arithmetic shift
+used for signed binary numbers. When performing a right shift the bits at the left are replaced by copies of the most significant bit.
+Array
+an organised collection of related values that share a single identifier.
+Ascending order
+this is arranging items from smallest to largest (e.g. 1, 2, 3, 4, 5, 6 or a, b, c, d, e, f).
+Assembly language
+a low-level language written using mnemonics.
+Assignment statement
+the SET. . .TO command is used tc initialise variables in pseudo-code, for example, SET anotherGo TO 0 ,SET correct TO False
+Attribute
+an item of data stored about an entity.
+Audit trail
+a record of activities that have taken place on a computer system. This record is generated automatically and will record what has happened and who or what made the change.
+Authentication
+the process of proving to a computer system who you are (e.g. using a username and password).
+Bandwidth
+the amount of data that can be carried on a network in a given period of time.
+Binary
+information represented by only two values (e.g. a voltage or no voltage, on or off). There are no communication errors or misunderstandings because there are no small differences.
+Binary digit or bit
+the smallest unit of data that is represented in a computer. it has a single binary value, either 1 or 0.
+Binary prefix
+multiplies a unit by powers of 2.
+Binary shift
+an operation done on all the bits of a binary value in which they are moved by a specific number of places to either the left or right.
+Bit depth
+the number of bits used to encode the information from each sample. Increasing the number of bits used increases the amount of detail contained in each sample.
+Boolean
+something that can take only the values True or False; named after English mathematician George Boole.
+Brute force
+an algorithm design that does not include any techniques to improve performance, but instead relies on sheer computing power to try all possibilities until the solution to a problem is found.
+Built-in functions
+functions that are provided in most high-level programming languages to perform common tasks.
+Bus
+a group of connections between devices in a computer.
+Bus width
+the number of wires that make up a bus this determines the range of binary numbers that can be transmitted.
+Byte
+the basic combination of bits used to represent an item of information. A byte typically consists of 8 bits.
+Carbon footprint
+the amount of carbon dioxide an individual or organisation produces as a result of the energy they consume.
+Central processing unit (CPU)
+hardware device that carries out the processing in a computer.
+Character set
+the defined list of characters recognised by a computer's hardware and software.
+Checksum
+an error detection technique. A mathematical formula is applied to the data and the resulting numerical value is transmitted with the data. The recipient computer applies the same formula to the received data and then compares the checksum sent With the data to the calculated checksum. ii the checksums don't match the data is likely to have been corrupted and the recipient computer requests the data again.
+Client-server network
+a network that has at least one server to provide services to the client computers.
+Clock
+an electronic device inside a CPU that 'ticks' at regular intervals and is used to synchronise the actions of the other parts of the CPU.
+Cloud storage
+secondary storage, often belonging to a third party, that is accessed via a network usually the internet, and so is not in the same physical place as the machine's RAM/ ROM. Files stored 'in the cloud' can be accessed from anywhere via an internet connection.
+Code vulnerability
+a computer program (the code) that has been written in such a way that it creates a security issue that may be taken advantage of to gain access to the computer system or data within it.
+Colour depth
+the number of bits used to encode the colour of each pixel.
+Communication media
+the means by which data is transmitted between devices on a network Coaxial cable, fibre-optic cable and microwaves are all forms of communication media.
+Compiler
+a translator that converts high-level language source code into object code, often machine code. The source code is translated all at once and saved to be executed later.
+Compound key
+a key that consists of two or more fields used to identify a record uniquely.
+Compression
+changing the format of a data file so that the size of the file becomes smaller.
+Computational thinking
+the thought processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by a computer.
+Computing technology
+an all-encompassing term referring to the hardware, software and infrastructure that underpin current and emerging computer systems.
+Concatenation
+the linking together of two or more items of information.
+Concurrent
+processes that run apparently at the same time are described as being concurrent
+Constant
+a 'container' that holds a value that never changes. like variables, constants have unique identifiers
+Construct
+a component from which something is built. Letters and numbers 0e. a to z and 0 to 9) are the constructs we use to build our language and convey meaning Bricks and cement are the basic constructs of a building
+Control unit
+the part of the CPU that organises the actions of the other parts of the CPU.
+Creative Commons
+an organisation that allows people to set copyright terms for their intellectual property. One use of a Creative Commons licence is to allow people to copy material as long as it is not used commercially.
+Cyberattacks
+any kind of malicious attack on a network-connected device.
+Data structure
+an organised collection of related elements. Arrays and records are two common data structures used in programming.
+Data type
+specifies what kind of data it can hold. Common data types are integer, real, Boolean and character. The data type of a value determines the operations that can be performed upon it.
+Database
+an organised store of data.
+Decimal prefix
+multiplies a unit by powers of 10.
+Definite iteration
+this is used when the number of iterations, or turns of the loop, is known in advance. It can be set to as many turns as you want. This sort of loop is said to be count controlled.
+Defragmenter
+a utility that moves the clusters on a disk so they are closer to each other in order to speed up disk access.
+Denial of service (DoS)
+an attack on a network that attempts to prevent legitimate users from accessing its services.
+Descending order
+this is arranging items from largest to smallest (e.g. 6, 5, 4. 3. Z. 1).
+Cache
+memory used to make up for the difference in speed between two internal components.
+Digital
+information represented by certain fixed values (e.g. high, medium or low). Any signal between these values would be meaningless and not used. Sending and receiving mechanisms do not have to be as accurate as for analogue communication.
+Digital divide
+the gap between people who are technology-empowered and those who are technology excluded.
+Digital inclusion
+ensuring that everyone has affordable access to computing technology and the necessary skills to take advantage of it.
+Divide and conquer
+an algorithm design that works by dividing a problem into smaller and smaller subproblems, until they are easy to solve. The solutions to these are then combined to give a solution to the complete problem.
+e-waste
+any form of discarded electronic equipment, including computing technology. Eavesdrop: having unauthorised sight of data being sent from one computer to another over a network.
+Encryption
+the process of encoding a message into a form that only the intended recipient can decode, or decrypt, and read. The message is encoded using an agreed method or algorithm. This is called the key. The encrypted message is called a cypher.
+Entity
+something that is recognised as being capable of an independent existence, is uniquely identified and about which data is stored. it is usually a physical object (e.g. a car, a person or a book), but it can be a concept (e.g. a customer transaction where details of the items that were purchased are stored).
+Ethics
+a set of moral principles that govern a person's behaviour.
+Execution
+the process by which a computer carries out the instructions of a computer program.
+Fetch-decode-execute cycle
+a sequence of steps carried out repeatedly by a CPU.
+Firewall
+3 utility that controls program access to the network, both incoming and outgoing.
+Flowchart
+a graphical representation of an algorithm. Each step in the algorithm is represented by a symbol. Symbols are linked together with arrows showing the Order in which steps are executed.
+Foreign key
+a held in one table that uniquely identifies records in another table (i.e. it is a primary key in another table).
+Function
+a function is a subprogram that performs a specific task and can be used at any point in the program. High-level programming languages have a number of useful built-in functions. You can also create your own or use functions available in online libraries.
+Global variable
+a variable that can be accessed from anywhere in the program, including inside subprograms.
+Hacking
+the act of gaining unauthorised access to a computer system and the data it contains.
+Heuristic
+a type of algorithm capable of finding a solution to a problem quickly and easily, by using a combination of trial and error and educated guesswork to cut corners and eliminate less likely alternatives.
+Hexadecimal
+a base-16 number system. There are 16 digits and the place values increase in powers of 16.
+High-level programming language
+a programming language that resembles natural human language.
+HyperText Markup Language (HTML)
+essentially a text document that contains any text to be displayed along with; details of how the text should be formatted (e.g. font size, colour etc); details of any hyperlinks and where they link to using a URL; details of any objects such as pictures or videos that should be shown within the web page when it is displayed.
+Identifier
+a unique name given to a variable or a constant. Using descriptive names for variables makes code much easier to read.
+Identity theft
+the stealing of another person's personal details, such as their bank account number, sort code or passport number, for the purpose of making purchases and running up debts in their name.
+IF...THEN...ELSE statement
+allows a choice to be made between two alternatives based on whether or not a condition is met (eg. IF It is cold THEN wear a jumper ELSE wear a T-shirt).
+indefinite iteration
+this is used when the number of iterations is not known before the loop is started. The iterations stop when a specified condition is met This sort of loop is said to be condition controlled.
+Infinite loop
+a loop that is never-ending since the condition required to terminate the loop is never reached.
+Input
+to enter data into a computer.
+Instruction set
+the list of all possible commands a particular CPU knows how to carry out.
+Integer
+a whole number (e.g. 3, 6, 9).
+Integrated Development Environment (IDE)
+3 package that helps programmers to develop program code. it has a number of useful tools, including a source code editor and a debugger. One of the most useful features of an IDE is the debugger. One of its tasks is to flag up syntax errors in the code and issue helpful error messages.
+Intellectual property (IP)
+a creation of the human mind that is unique and has a commercial value.
+Internet
+a worldwide system of interconnected networks that enables information to be exchanged and shared.
+Internet Service Provider (ISP)
+an organisation that provides its customers with a connection to the internet.
+Interpreter
+a translator that converts high-level language source code into object code, often machine code. The source code is translated and executed one line at a time.
+Iteration
+a construct that means the repetition of a process. An action is repeated until there is a desired outcome or a condition is met. It is often referred to as a loop.
+Local area network (LAN)
+a network that covers a relatively small geographical area, often a single site.
+Local variable
+a variable that is accessed only from within the subprogram in which it Is created.
+Location-based services
+services that enable people to access and share real-time location Information online.
+Logic circuit
+an electronic circuit that has Inputs and outputs that follow one of the Boolean operators
+Logic error
+an error in an algorithm that results in incorrect or unexpected behaviour.
+Logical operator
+a Boolean operator using AND, OR and NOT.
+Lossless compression
+compressing a file in such a way that it can be decompressed without any loss of data.
+lossy compression
+compression where some of the data is removed; the original file cannot be restored when the lossy file is decompressed.
+Low-level programming language
+a programming language that is closely related to the CPU's machine code.
+Machine code
+the binary codes representing each of the instructions in the instruction set.
+Magnetic storage
+a secondary storage that works by magnetising parts of a substance as north and south poles to represent binary 15 and 05.
+Main memory/random access memory (ROM)
+a temporary store for data and instructions (programs).
+Malware
+short for 'malicious software'. It is used as a generic term for any kind of software that is designed to disrupt the use of a computer system.
+Median
+the middle number when the numbers are put in ascending or descending order (e.g. if there are 13 numbers, then the 7th number is the median). If there are an even number of items in an ascending list. choose the item to the right of the middle (e.g. if there are 10 numbers. then choose the 6th as the median).
+Memory address
+a number that uniquely identifies a (memory) storage location.
+Mnemonic
+a short, simple, acronym that represents each of the instructions in a CPU's instruction set, e.g. LDR (load register). STR (store) and CMP (compare).
+Modular testing
+testing each block of code as it is completed to ensure the code works as expected.
+Monte Carlo methods
+carrying out a statistical analysis of a number of random samples in order to obtain approximate solutions to a problem. The larger the number of samples used, the more accurate the result is likely to be.
+Most significant bit (MSB)
+the bit with the highest value in a multiple-bit binary number.
+Nested iF statement
+consists of one or more lF statements placed inside each other. A nested lF is used where there are more than two possible courses of action.
+Nested loop
+a loop that runs inside another loop. The inner one executes all of its instructions for each turn of the outer loop.
+Network
+an arrangement of computers and other devices connected together to share resources and data.
+Network security
+activities designed to protect a network and its data from threats such as viruses, hacker attacks denial of service attacks, data interception and theft, and equipment failure.
+Network topology
+describes how the devices on a network are connected together.
+Neural networks
+processing information in a similar way to human brains and learning and adapting over time. This makes them useful tools for solving pattern recognition problems, such as facial recognition, medical diagnosis and quality control, which computers are normally not very good at.
+Non-volatile
+a memory that is not lost when the power is turned off.
+Object code
+the translated source code. Often this will be machine code, but might also be an intermediate code, which has to be further translated before it can be executed.
+Open-source software
+software that is free to obtain, edit and redistribute.
+Operating system
+software designed for particular hardware and which manages other programs' access to the hardware.
+Operator precedence
+the order in which you apply the operators (including logical operators) in a mathematical equation.
+Optical storage
+secondary storage that works using differences in light reflection from a material.
+Output
+to display or output data that has been processed (or has been stored).
+Packet
+a small quantity of data being sent through a network. The packet is labelled with the sender's address source), the recipient's address (destination), how many packets are be ng transmitted and the position of this packet in the complete message.
+Paging
+the algorithm the OS uses to move programs from RAM to disk and back again when needed once main memory is full.
+Parameters
+values that are passed into a subprogram when it is called.
+Patent
+an exclusive right granted to an inventor to make, use and sell an invention for a fixed period of time.
+Personal data
+information that is personal and unique to an individual.
+Phishing
+attempting to get confidential information by sending a user a message that appears to come from a trustworthy person or organisation.
+Physical security
+controlling access to critical parts of a network using physical methods (such as locked doors) rather than software.
+Pixel
+short for 'picture element', the smallest single point of colour in a graphic image.
+Primary key
+a unique identifier for each record in the table. It is usually 3 held that is guaranteed to hold unique information for each record.
+Privacy
+the right to be left alone and free from unwanted scrutiny and intrusion.
+Procedure
+a subprogram containing a set of statements that are executed when the procedure is called. Unlike a function. a procedure does not return a value to the main program.
+Process
+to change the meaning or format of some data.
+Professionalism
+the skill and competence expected of a person in a professional setting
+Proprietary software
+software that belongs to an individual or a company. It's licence specifies that users are not allowed to modify the source code and places restrictions on its use.
+Protocol
+a set of rules that govern how communications on a network should be formatted and what data they should include.
+Pseudo-code
+a structured, code-like language that can be used to describe an algorithm.
+Random number
+a number within a given range of numbers that Is generated in such a way that each number in the range has an equal chance of occurring. There are many devices for generating random numbers, A die is used in games to get a random number from 1 to 6 Computer programming languages have a function for generating random numbers across variable ranges. in the Edexcel pseudo-code, there is a useful built-in RANDOM command. RANDOM (upperLimit) For example, number = RANDOM(6) would generate a random number from the numbers 1 to 6.
+Read-only memory (ROM)
+a memory that cannot be altered and is not lost when the power is turned off.
+Record
+a data structure that stores a set of related values of different data types.
+Recursion
+a process that is repeated. For example, a document can be checked and edited, checked and edited and so on until it is perfect.
+Register
+a storage location inside the CPU used to hold an instruction, an address or other single item of data.
+Relational database
+a database that allows data elements in one table to be related to any piece of data in another table as long as both tables contain a common element.
+Relational operator
+an operator that compares two values.
+Resolution
+the number of pixels per inch when the image is displayed (for example, on a monitor or on paper).
+Router
+a piece of networking hardware used to forward packets of data from one network to another.
+Runtime error
+an error that occurs while the program is running the operation the computer is asked to do is impossible to execute.
+Sampling
+taking measurements of the sound wave at regular but distinct intervals of time (e.g. 44,100 samples per second).
+Scheduling
+the algorithm that the OS uses to allow each running process to use the CPU.
+Scope
+the region of code within which a variable is visible.
+Secondary storage
+any kind of permanent storage to which the contents of ROM/RAM are copied (usually a hard disk, optical or solid-state device).
+Selection
+a construct that allows a choice to be made between different alternatives.
+Sequence
+an ordered set of instructions.
+Shoulder surfing
+gaining access to information by watching someone enter it into a computer system. Simulation: a representation of a real-world process or system.
+Social engineering
+any kind of attack on a computer system or network that exploits how people behave and respond to certain situations.
+Software
+the set of programs run by a computer system.
+Solid-state storage
+a secondary storage that works by storing charge (electrons).
+Source code
+the text of the program that a programmer writes.
+Spyware
+software, possibly a virus, that is designed to be installed secretly on a computer and record private information as the user enters it.
+String
+a sequence of characters. They can be letters, numbers, symbols, punctuation marks or spaces.
+String traversal
+using a loop to cycle through each character in a string.
+Subprogram
+a self-contained module of code that performs a specific task. It can be 'called' by the main program when it is needed.
+Surveillance technology
+CCTV, drones, number plate recognition, bugging and tracking devices used to monitor and record people's activities, often without their knowledge.
+Syntax error
+an error that occurs when a rule of the programming language is broken.
+Table
+a collection of cells organised in rows and columns used to store data in a structured and organised manner. Text File: a sequence of lines, each of which consists of a sequence of characters.
+Trace table
+a technique used to identify any logic errors in algorithms. Each column represents a variable or output and each row a value of that variable.
+Translator
+a program that converts source code into machine code.
+Traversal
+travel across or through something. An array can be traversed by moving from the first to the last element in order to examine the data stored at each index position.
+Truth table
+a table showing all possible combinations of the inputs and outputs of an operator.
+Two-dimensional array
+a matrix of rows and columns resembling a table. Two indices are used, one to reference the rows and the other the columns. All the elements of a two-dimensional array share the same data type.
+Type coercion
+the process of converting the value stored in a variable from one data type to another.
+Unambiguous
+this means that the instructions cannot be misunderstood. Simply saying 'turn' would be ambiguous because you could turn left or right. All instructions given to a computer must be unambiguous or it won't know what to do.
+Unpatched software
+software that hasn't had the latest security updates applied to it, making it vulnerable to attack.
+USB
+Universal Serial Bus sockets found on most modern computer systems.
+User interface
+the way the user interacts with the operating system
+Utility software
+software that does a useful job for the user that is not essential to the operating system and not the reason for using a computer in the first place.
+Validation
+to check that the data entered by a user or from a hie meets specified requirements.
+Variable
+a 'container' used to store data. The data stored in a variable is referred to as a value. The value stored in a Variable is not fixed. The same variable can store different values during the course of a program and each time a program is run.
+Virtualisation
+any process that hides the true physical nature of a computing resource, making it look different, usually to simplify the way it is accessed.
+Virus
+software that is designed to make and distribute copies of itself, usually for a malicious purpose.
+Volatile
+a memory that is erased when the power is turned off.
+von Neumann architecture
+computer system design in which the program is stored in memory with the data.
+Web server
+powerful computer systems that store web pages and any multimedia that the pages might contain.
+'What if?' question
+running a computer model with a given set of inputs to see what the model produces as an output or prediction.
+Whistle-blower
+someone who draws attention to the activities of an organisation or person believed to be acting illegally or unethically.
+Wide area network (WAN)
+a network that covers a large geographical area. It connects together two or more LANs and is usually under collective ownership. The largest wide area network is the internet.
+Wireless local area network (WLAN)
+a local area network in which connected devices use high-frequency radio waves to communicate.
+Writing
+when the CPU sends data to memory to be stored at a given address.
+peer to peer network
+a network that doesn't have any centralised servers Each computer in the network can act as client and sewer
+Reading
+when the CPU retrieves the data stored at a given address.
+Field
+an individual element in a record.
+File
+all of the records in a table or a group of linked tables.
+lnitialisation
+the process of assigning an initial value to a variable.
